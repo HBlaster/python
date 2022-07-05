@@ -1,3 +1,6 @@
+from factoriales import factorial
+
+
 def run():
     objetivo = int(input('Escoge un entero: '))
     respuesta = 0
