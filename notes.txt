@@ -1,0 +1,4 @@
+Python 06/07/2022
+
+Generar entorno virtual:
+py -m venv + nombre del entorno
