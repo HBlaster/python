@@ -143,9 +143,9 @@ def run ():
 
     while goAhead != False:
         os.system("cls")
+
         figura(lifes)
         
-
         print(f'Vidas restantes: {lifes}')
         print("Adivina la palabra: ")
 
